@@ -6,6 +6,7 @@
   <img align="left" alt="Stream404" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+Hi! Welcome to my Github profile. You can find more about me on the following links:
 
 - [About me](https://devandchill.com/about/)
 - [Resume](https://devandchill.com/resume/)
